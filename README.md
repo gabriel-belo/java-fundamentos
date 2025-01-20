@@ -28,9 +28,11 @@ Conclusão
 Os objetos são gerados cada qual com suas informações. Caso uma atualização seja necessária, a Classe é alterada e a mudança é refletida para todos os sistemas que utilizam este molde e, consequentemente, a todos os objetos gerados também.
 
 Um objeto pode representar uma entidade física, conceitual ou de software
--Física: caminhão, óculos, prédio ...
--Conceitual: Formas abstratas, não palpáveis ( como matemática, sentimentos, pensamentos...)
--De software: Quando representa sistemas( como usuários, e-mais, acesso ...)
+<ul>
+  <li>Física: caminhão, óculos, prédio ...</li>
+  <li>Conceitual: Formas abstratas, não palpáveis ( como matemática, sentimentos, pensamentos...)</li>
+  <li>De software: Quando representa sistemas( como usuários, e-mais, acesso ...)</li>
+</ul>
 
 Um objeto é uma entidade com fronteiras e identidade bem definidas que encapsulam o estado e comportamento
 
