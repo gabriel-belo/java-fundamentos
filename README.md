@@ -46,3 +46,6 @@ Um objeto é uma entidade com fronteiras e identidade bem definidas que encapsul
   <li>Hierarquia: Na programação orientada a objetos existe herança, assim como no mundo real.Na programação é o mecanismo pelo qual uma classe pode estender (herdar) de outra classe para receber seus comportamentos (métodos) e variáveis (atributos)</li>
   <li>Modularização: É o processo de dividir um todo em partes bem definidas, que podem ser construídas e examinadas separadamente e que consigam interagir entre si. A programação orientada a objetos permite a criação de componentes modulares, que podem ser reutilizados para diversos sistemas distintos. Por exemplo: A classe Aluno, se for criada seguindo princípios citados de alunos, para o sistema financeiro da faculdade, lançamento de notas, consulta ao boletim, entre outros.</li>
 </ul>
+
+<h1>IDEs, variáveis, conversões e Hello World</h1>
+ 
